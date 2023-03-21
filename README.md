@@ -1,4 +1,4 @@
-## Oiii eu sou Adriano Pinheiro, Desenvolvedor Front-end Júnior! 👋
+## Ola eu sou Adriano Pinheiro, Desenvolvedor Front-end Júnior! 👋
 
 <div align="center">
   <a href="https://github.com/AdrianoPinheiros">
